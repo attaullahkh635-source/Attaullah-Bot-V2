@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "bot-say",
 	version: "1.1.1",
 	hasPermssion: 0,
-	credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝗔𝘁𝘁𝗮𝘂𝗹𝗹𝗮𝗵 𝗞𝗵𝘂𝗵𝗮𝗿𝗼",
 	description: "Bot Saying",
 	commandCategory: "ai",
 	usages: "[text/message/chat]",
