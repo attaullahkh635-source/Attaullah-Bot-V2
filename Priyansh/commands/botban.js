@@ -2,7 +2,7 @@ module.exports.config = {
   name: "otherbots",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "𝗔𝘁𝘁𝗮𝘂𝗹𝗹𝗮𝗵",
   description: "ban otherbot",
   commandCategory: "config",
   cooldowns: 0
